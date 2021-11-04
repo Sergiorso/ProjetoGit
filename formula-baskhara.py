@@ -1,7 +1,7 @@
 import math
-a = int(input("Entre com o valor de a: "))
-b = int(input("Entre com o valor de b: "))
-c = int(input("Entre com o valor de c: "))
+a = int(input("Informe o valor de a: "))
+b = int(input("Informe o valor de b: "))
+c = int(input("Informe o valor de c: "))
 
 delta = (b**2) - (4 * a * c)
 
