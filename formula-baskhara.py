@@ -1,7 +1,7 @@
 import math
-a = int(input("Informe o valor de a: "))
-b = int(input("Informe o valor de b: "))
-c = int(input("Informe o valor de c: "))
+a = int(input("Informe o valor da variável a: "))
+b = int(input("Informe o valor da variável b: "))
+c = int(input("Informe o valor da variável c: "))
 
 delta = (b**2) - (4 * a * c)
 
