@@ -13,6 +13,6 @@ if delta > 0:
    print("As raízes da equação são ", x_1, "e", x_2)     
 elif  delta == 0:
       x = -b / (2 * a)  
-      print("A raiz desta equação é ", x)
+      print("A raiz da equação é ", x)
 else:
       print("Esta equação não possui raízes reais.")
